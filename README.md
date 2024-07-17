@@ -6,3 +6,6 @@ Realistic machine learning methods from data collection to deployment
 - <a href="https://github.com/santokalayil/yolo_v8_object_detection">YOLO v8 Object Detection</a>
 - <a href="https://github.com/santokalayil/charge_slip_validator">opencv/pytesseract validation</a>
 
+## External Sources
+- <a href="notes/external_sources.md">External Sources Documentation</a>
+
