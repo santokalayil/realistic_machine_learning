@@ -1,4 +1,4 @@
-# Realistc Machine Learning / Deep Learning / NLP / AI
+# Realistic Machine Learning / Deep Learning / NLP / AI
 Realistic machine learning methods from data collection to deployment
 
 ## Other Links
