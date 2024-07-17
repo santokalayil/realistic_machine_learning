@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "realistic-machine-learning"
+version = "0.1.0"
+description = "ML/DL/AI"
+authors = ["Santo K Thomas"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.2.2"
+pyarrow = "^17.0.0"
+openpyxl = "^3.1.5"
+sqlalchemy = "^2.0.31"
+streamlit = "^1.36.0"
+scikit-learn = "^1.5.1"
+xgboost = "^2.1.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
